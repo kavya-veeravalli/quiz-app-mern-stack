@@ -1,0 +1,36 @@
+.App{
+    text-align:center;
+    font-family: Arial;
+}
+
+.selected{
+    background: yellow;
+}
+
+.options{
+    padding:8px;
+    border:3px solid rgb(187, 187, 187);
+    cursor:pointer;
+    width:100%;
+    background-color: white;
+    color: steelblue;
+    font-weight: bold;
+    border-radius: 7px;
+}
+
+ul{
+    list-style-type:none;
+}
+
+ul li{
+    margin:5px;
+}
+
+body{
+    display:flex;
+    text-align: center;
+    color:white;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    background-color: teal;
+}
